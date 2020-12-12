@@ -1,3 +1,8 @@
+# Deployed with firebase
+
+Please click here to checkout the Netflix clone: [Click Me](https://netflix-clone-537b7.web.app/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
